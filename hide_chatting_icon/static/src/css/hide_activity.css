@@ -1,9 +1,0 @@
-/* Oculta el botón de actividades */
-.o_header_right button[aria-label="Activities"] {
-    display: none !important;
-}
-
-/* Oculta cualquier elemento con la clase o-mail-DiscussSystray-class */
-.o-mail-DiscussSystray-class {
-    display: none !important;
-}
